@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	font-family:"Times New Roman";
+	color : blue
+   }
+
+b{
+	font-size: 25px;
+	text-align:end;
+	color:#C06
+}
+
+c{
+	color:#603;
+	font-size:14px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+	

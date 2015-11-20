@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+
+div.horz ul{
+	margin:0;
+	list-style-type:none;
+	padding:0;
+}
+
+div.horz a:hover, div.horz a:active{
+background-color:#0080FF;
+color:#FFF;
+}
+
+div.horz li{
+float:left;
+}
+
+div.horz a:link{
+	font-size:17px;
+	text-align:center;
+	padding:10px;
+}
